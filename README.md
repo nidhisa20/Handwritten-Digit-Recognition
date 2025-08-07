@@ -1,2 +1,16 @@
-# Handwritten-Digit-Recognition
-This project is a machine learning-based digit classification system trained on the MNIST dataset and evaluated on both MNIST and SVHN (Street View House Numbers) datasets. It demonstrates a pipeline for training, evaluation, visualization, and prediction of handwritten and street view digits using a CNN built with TensorFlow and other tools.
+# 🧠 Digit Detection Using Image Processing
+
+This project builds a digit recognition system using deep learning on the MNIST dataset and tests its generalization on the SVHN dataset using image processing techniques.
+
+---
+
+## 📌 Project Highlights
+
+- 🔢 Digit classification using a deep neural network
+- 📦 Trained on MNIST dataset (handwritten digits)
+- 🌍 Tested on SVHN dataset (real-world digits from street signs)
+- 🧼 Preprocessing of SVHN images using OpenCV
+- 📊 Evaluation via confusion matrix & classification report
+- 📈 Accuracy and loss visualizations
+- 🖼️ Custom digit prediction support
+
